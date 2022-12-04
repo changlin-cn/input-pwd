@@ -2,6 +2,14 @@
   "name": "input-pwd",
   "version": "0.0.1",
   "description": "A web component that enters a password",
+  "keywords": [
+    "input-pwd",
+    "password",
+    "input",
+    "input password",
+    "react input password",
+    "web component"
+  ],
   "license": "MIT",
   "module": "dist/index.js",
   "types": "dist/types.d.ts",
