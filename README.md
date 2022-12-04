@@ -5,6 +5,10 @@
 
 A web component that enters a password
 
+## Attention
+
+The "input-pwd" is a experimental component. Do not use it in a production environment!
+
 ## Usage
 
 TODO
